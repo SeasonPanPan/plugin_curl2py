@@ -1,0 +1,12 @@
+<svg width="80" height="80" xmlns="http://www.w3.org/2000/svg">
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <text fill="#A8FFE9" stroke-width="0" x="30" y="19" id="svg_1" font-size="24" font-family="'Arial'" text-anchor="start" xml:space="preserve" stroke="#000" transform="matrix(1.07884 0 0 1.71933 -22.147 3.32141)" filter="url(#svg_1_blur)" font-weight="bold">cURL</text>
+  <text fill="#FFF093" stroke-width="0" x="22" y="125" id="svg_2" font-size="24" font-family="'Arial'" text-anchor="start" xml:space="preserve" stroke="#000" transform="matrix(1.54549 0 0 1.45409 -22.935 -117.51)" font-weight="bold">2py</text>
+ </g>
+ <defs>
+  <filter id="svg_1_blur">
+   <feGaussianBlur in="SourceGraphic" stdDeviation="0"/>
+  </filter>
+ </defs>
+</svg>
